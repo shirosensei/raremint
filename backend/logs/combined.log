@@ -1,0 +1,52 @@
+2025-02-19T14:13:11.088Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T14:13:41.654Z [ERROR]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1163:11)
+    at NativeConnection.openUri (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1094:11)
+    at async connectDB (file:///home/shirosensei/portforlio/nftproject/backend/api/config/database.js:15:9)
+2025-02-19T14:13:52.713Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T14:14:23.276Z [ERROR]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1163:11)
+    at NativeConnection.openUri (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1094:11)
+    at async connectDB (file:///home/shirosensei/portforlio/nftproject/backend/api/config/database.js:15:9)
+2025-02-19T14:14:38.882Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T14:15:09.586Z [ERROR]: MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1163:11)
+    at NativeConnection.openUri (/home/shirosensei/portforlio/nftproject/backend/node_modules/mongoose/lib/connection.js:1094:11)
+    at async connectDB (file:///home/shirosensei/portforlio/nftproject/backend/api/config/database.js:15:9)
+2025-02-19T14:15:19.169Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T14:15:21.710Z [INFO]: ✅ MongoDB Established! Let's get it at ac-xfwn5rd-shard-00-02.ivfmoqd.mongodb.net
+2025-02-19T18:32:57.827Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:33:01.409Z [INFO]: ✅ MongoDB Established! Let's get it at ac-xfwn5rd-shard-00-01.ivfmoqd.mongodb.net
+2025-02-19T18:34:30.346Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:34:34.673Z [INFO]: ✅ MongoDB Established! Let's get it
+2025-02-19T18:34:49.990Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:34:52.366Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T18:35:20.998Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:35:29.158Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T18:54:21.730Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:54:26.200Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T18:55:02.866Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:55:10.111Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T18:58:22.098Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T18:58:24.721Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:07:56.887Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:08:03.254Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:08:38.114Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:08:43.468Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:08:54.370Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:08:58.723Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:09:11.099Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:09:16.957Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:09:29.399Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:09:33.140Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:09:48.433Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:09:55.318Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:10:02.995Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:10:13.476Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:10:16.959Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:10:22.072Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:10:35.778Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:10:39.607Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:10:44.140Z [INFO]: ✅ Connection Established! Let's get it!
+2025-02-19T19:20:25.420Z [DEBUG]: Winston logger initialized in development mode
+2025-02-19T19:20:30.441Z [INFO]: ✅ Connection Established! Let's get it!
